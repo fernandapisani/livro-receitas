@@ -4,17 +4,20 @@ Olá, bem vindo :wave:
 
 
 
-Meu nome é Fernanda, sou brasileira e moro no Rio de Janeiro.  Começando agora neste mundo de programação.  Qualquer ajuda é bem vinda!
+Meu nome é Fernanda, sou brasileira e moro no Rio de Janeiro.  
+
+Espero que gostem do meu livro de receitas!
 
 
 
 Receitas:
 
 - Strogronoff de Frango.
+- Pavê :chocolate_bar: 
 
 
 
-Enjoy!  :happy:
+Enjoy!  :happy: 
 
 
 
