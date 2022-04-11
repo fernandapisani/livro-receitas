@@ -14,6 +14,7 @@ Receitas:
 
 - Strogronoff de Frango.
 - Pavê :chocolate_bar: 
+- Bolo de Cenoura :carrot: 
 
 
 
